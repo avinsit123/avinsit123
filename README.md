@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello , I am Avinash Swaminathan . Welcome to my Github Page !!👋
 
 <!--
 **avinsit123/avinsit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
