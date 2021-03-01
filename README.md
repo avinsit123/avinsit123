@@ -1,18 +1,15 @@
 ### Hello , I am Avinash Swaminathan . Welcome to my Github Page !!👋
 
-<!--
-**avinsit123/avinsit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi , I am Avinash , currently a final year student at NSIT Delhi doing bachelors in Information Technology. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... Code-switched NLP, RL for Computer Networking
+- 🌱 I’m currently learning ... Privacy-preserving AI
+- 👯 I’m looking to collaborate on ... interesting NLP projects
+- 💬 Ask me about ... NLP research 
+- 📫 How to reach me: ... DM me on [Twitter](https://twitter.com/AvinashSwamina2)
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I'm a big Office Fan!! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a look at my [website](https://avinsit123.github.io/) to know more about me
 
 [![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinsit123&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
