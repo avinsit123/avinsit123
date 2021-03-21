@@ -2,7 +2,7 @@
 
 Hi , I am Avinash , currently a final year student at NSIT Delhi doing bachelors in Information Technology. 
 
-- 🔭 I’m currently working on ... Code-switched NLP, RL for Computer Networking
+- 🔭 I’m currently working on ... PPML,  RL for Computer Networking
 - 🌱 I’m currently learning ... Privacy-preserving AI
 - 👯 I’m looking to collaborate on ... interesting NLP projects
 - 💬 Ask me about ... NLP research 
