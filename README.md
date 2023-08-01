@@ -1,6 +1,6 @@
 ### Hello , I am Avinash Swaminathan . Welcome to my Github Page !!👋
 
-Hi , I am Avinash , currently a final year student at NSIT Delhi doing bachelors in Information Technology. 
+Hi , I am Avinash , currently a graduate student at Georgia Tech.
 
 - 🔭 I’m currently working on ... PPML,  RL for Computer Networking
 - 🌱 I’m currently learning ... Privacy-preserving AI
